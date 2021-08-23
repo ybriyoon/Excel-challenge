@@ -11,7 +11,7 @@ Conditional Formatting
 <img width="960" alt="Pivot_3" src="https://user-images.githubusercontent.com/69057154/130502966-f2abdbf7-f765-437f-bf1c-9321474a0a51.png">
 <p align="center">
 <img width="960" alt="Pivot_2" src="https://user-images.githubusercontent.com/69057154/130502953-d1e92bf9-cbdb-4eaa-be20-3dc8a426b865.png">
-Pivot Tables & Charts
+<p align="center">Pivot Tables & Charts
 <br><br><br><p align="center">
 <img width="960" alt="Functions" src="https://user-images.githubusercontent.com/69057154/130503309-cd2eece1-d686-4726-99f8-843f62171dc1.png">
 Functions
